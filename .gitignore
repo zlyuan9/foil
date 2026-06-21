@@ -1,0 +1,9 @@
+data/
+checkpoints/
+__pycache__/
+*.pyc
+.env
+memory/
+.claude/
+.DS_Store
+*.pt
